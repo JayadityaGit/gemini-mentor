@@ -1,6 +1,6 @@
 # Gemini Mentor 🎓
 
-Turns Gemini into a Socratic coding mentor. It guides you to solutions instead of writing code for you.
+Turns Gemini-Cli into a Socratic coding mentor. It guides you to solutions instead of writing code for you.
 
 ## Installation
 
