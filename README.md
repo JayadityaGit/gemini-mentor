@@ -1,4 +1,7 @@
+<img width="1536" height="1024" alt="ChatGPT Image Nov 20, 2025, 08_42_52 PM" src="https://github.com/user-attachments/assets/6c197e12-ffae-444b-83cd-06fd4a41f7c5" />
+
 # Gemini Mentor 🎓
+
 
 Turns Gemini-Cli into a Socratic coding mentor. It guides you to solutions instead of writing code for you.
 
