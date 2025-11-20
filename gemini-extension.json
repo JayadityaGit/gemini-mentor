@@ -1,0 +1,6 @@
+{
+  "name": "gemini-mentor",
+  "description": "A mentoring extension that transforms Gemini into a supportive software engineering coach with a focus on TDD.",
+  "version": "0.0.3"
+
+}

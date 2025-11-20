@@ -1,0 +1,2 @@
+description = "Activates Mentor Mode, enabling TDD enforcement and Socratic guidance."
+prompt = "Toggle Mentor Mode"

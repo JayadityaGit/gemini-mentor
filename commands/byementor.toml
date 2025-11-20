@@ -1,0 +1,2 @@
+description = "Exits Mentor Mode, returning to standard assistant behavior."
+prompt = "Exit Mentor Mode"
