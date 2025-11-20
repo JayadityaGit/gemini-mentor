@@ -10,7 +10,8 @@ gemini extensions install https://github.com/JayadityaGit/gemini-mentor
 
 ## Usage
 
-- **/mentor**: Activate Mentor Mode. Performs a pre-flight check of your tech stack and starts Socratic guidance.
+- **/mentor [topic]**: Activate Mentor Mode. You can optionally provide a topic to start with.
+  - _Example_: `/mentor I want to fix a bug in the login flow`
 - **/byementor**: Exit Mentor Mode. Returns to normal assistant behavior.
 
 ## Features
